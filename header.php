@@ -226,6 +226,9 @@
 
 	<?php ob_start(); ?>
 		<header id="main-header" data-height-onload="<?php echo esc_attr( et_get_option( 'menu_height', '66' ) ); ?>">
+			<div class="sticky_header">
+				<span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #bf884e;font-size: 13px;padding-right: 10px;">                </span>
+			</div>
 			<div class="container clearfix et_menu_container">
 			<?php
 				$logo = ( $user_logo = et_get_option( 'divi_logo' ) ) && '' != $user_logo
