@@ -12,4 +12,12 @@ Version:  1.0.2
 ------------------------------------------------------- */
 #main-header {
 background-color: #9E3131 !important;
+	padding-top: 25px;
+}
+.sticky_header {
+	height: 25px;
+	background: #9E3131;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
