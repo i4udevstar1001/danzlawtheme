@@ -231,7 +231,7 @@
 					<a href="tel:954-99801234"><span class="et-pb-icon et-waypoint et_pb_animation_top et-animated" style="color: #bf884e;font-size: 13px;padding-right: 10px;">                </span>(954) 998-1234</a>
 
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="mailto:test@gmail.com"><span class="et-pb-icon1"></span>&nbsp;test@gmail.com</a>
+					<a href="mailto:test@gmail.com"><span class="et-pb-icon1 et-waypoint et_pb_animation_top et-animated" style="color: #bf884e;font-size: 13px;padding-right: 10px;"></span>&nbsp;test@gmail.com</a>
 				</div>
 			</div>
 			<div class="container clearfix et_menu_container">
