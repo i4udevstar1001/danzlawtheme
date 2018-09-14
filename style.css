@@ -15,9 +15,20 @@ background-color: #9E3131 !important;
 	padding-top: 25px;
 }
 .sticky_header {
-	height: 25px;
+	height: 28px;
 	background: #9E3131;
 	position: fixed;
 	top: 0;
+	color: white;
+	font-size: 15px;
+	padding: 3px 0;
 	width: 100%;
+}
+
+.sticky_header a {
+	color: white;
+}
+.sticky_header .et-pb-icon1:before {
+	content: "\e010";
+	font-family: "ETmodules";
 }
