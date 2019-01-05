@@ -13,6 +13,7 @@ Version:  1.0.2
 #main-header {
 background-color: #9E3131 !important;
 	padding-top: 25px;
+	margin-bottom: 2px;
 }
 .sticky_header {
 	height: 28px;
